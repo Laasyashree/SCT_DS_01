@@ -86,7 +86,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🙋‍♀️ Author
 
 **Laasya Shree**  
-[GitHub](https://github.com/your-Laasyashree) | [LinkedIn](https://www.linkedin.com/in/laasya-shree-aba412260)
+[GitHub](https://github.com/Laasyashree) | [LinkedIn](https://www.linkedin.com/in/laasya-shree-aba412260)
 
 ---
 
